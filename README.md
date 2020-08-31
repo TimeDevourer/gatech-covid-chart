@@ -1,11 +1,13 @@
-# 📈 GATech Covid-19 Chart
-A line chart showing Covid-19 cases aggregated per day from the [GATech Exposure and Health Alerts](https://health.gatech.edu/coronavirus/health-alerts)
+# 📈 TTU Covid-19 Chart
+A line chart showing Covid-19 cases aggregated per day from the [TTU
 
 ## Demo
-[Chart with Live Data](https://davidgamero.github.io/gatech-covid-chart/)
+[Chart of New and Active Cases]
 
 ## Details
-💾 Data is scraped and sourced by my [gatech-covid-data-scraper](https://github.com/davidgamero/gatech-covid-data-scraper)
+Project forked from [https://davidgamero.github.io/gatech-covid-chart/]
+
+💾 Data is entered manually (for now).
 
 📂 CSV Parsing with [PapaParse](https://www.papaparse.com/)
 
